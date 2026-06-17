@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(){
+	int numero1, numero2, numero3, maior = 0;
+	
+	printf("Insira o primeiro numero: ");
+	scanf("%d", &numero1);
+	printf("\nInsira o segundo numero: ");
+	scanf("%d", &numero2);
+	printf("\nInsira o terceiro numero: ");
+	scanf("%d", &numero3);
+	
+	maior = numero1;
+	
+	if(numero2 > maior){
+		maior = numero2;
+	}
+	if(numero3 > maior){
+		maior = numero3;
+	}
+	
+	printf("\nO maior numero e: %d", maior);
+	
+	return 0;
+}
