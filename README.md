@@ -15,4 +15,4 @@ Este repositório foi criado com o objetivo de armazenar e organizar minhas ativ
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** C
-* **Ambiente de Desenvolvimento: **Dev-C++**
+* **Ambiente de Desenvolvimento:** Dev-C++
